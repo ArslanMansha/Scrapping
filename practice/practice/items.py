@@ -12,3 +12,11 @@ class PracticeItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
+
+
+class EloquiiItem(scrapy.Item):
+    name = scrapy.Field()
+    availability = scrapy.Field()
+    ID = scrapy.Field()
+    weblink = scrapy.Field()
+    image = scrapy.Field()
