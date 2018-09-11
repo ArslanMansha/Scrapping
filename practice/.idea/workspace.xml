@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f62271a-8b9c-4551-b9d8-6ca72cb7d3a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/spiders/nishat_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/spiders/rough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/spiders/so_kamal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies.jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eloquii_data.jl" beforeDir="false" afterPath="$PROJECT_DIR$/eloquii_data.jl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/spiders/dresses_spider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/thf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/spiders/eloquii_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/spiders/eloquii_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,42 +28,43 @@
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="8" />
-          <entry key="jl" value="70" />
+          <entry key="jl" value="78" />
           <entry key="json" value="2" />
-          <entry key="py" value="79" />
-          <entry key="scrapy" value="2" />
+          <entry key="py" value="116" />
+          <entry key="scrapy" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="8" />
           <entry key="JSON" value="2" />
-          <entry key="Julia" value="59" />
+          <entry key="Julia" value="67" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="81" />
+          <entry key="Python" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="jl" value="5" />
+          <entry key="jl" value="6" />
           <entry key="json" value="1" />
-          <entry key="py" value="10846" />
+          <entry key="py" value="15553" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="1" />
-          <entry key="Julia" value="5" />
+          <entry key="Julia" value="6" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="10845" />
+          <entry key="Python" value="15552" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
@@ -73,14 +73,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/spiders/eloquii_spider.py">
+        <entry file="file://$PROJECT_DIR$/practice/spiders/so_kamal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#1348#2482#0" />
-                <marker date="1536221050552" expanded="true" signature="1546:2695" ph="..." />
+                <element signature="e#313#611#0" />
+                <element signature="e#2231#2862#0" />
+                <element signature="e#3583#5032#0" />
+                <element signature="e#4222#6155#0" />
+                <marker date="1536647596649" expanded="false" signature="636:2673" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/so_kamal_products.jl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+              <folding>
+                <marker date="1536643469468" expanded="true" signature="237:301" ph="..." />
+                <marker date="1536643469468" expanded="true" signature="331:332" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/spiders/eloquii_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1430">
+              <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1536226962180" expanded="true" signature="1546:2687" ph="..." />
               </folding>
             </state>
           </provider>
@@ -98,22 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>aven</find>
-      <find>tul</find>
-      <find>isl</find>
-      <find>esc</find>
-      <find>traf</find>
-      <find>mary</find>
-      <find>big</find>
-      <find>gam</find>
-      <find>quiet</find>
-      <find>batm</find>
-      <find>clue</find>
-      <find>day</find>
-      <find>exo</find>
-      <find>act</find>
-      <find>doz</find>
-      <find>club</find>
       <find>marc</find>
       <find>sil</find>
       <find>ham</find>
@@ -128,11 +164,25 @@
       <find>Actual_price</find>
       <find>false</find>
       <find>price1</find>
+      <find>{&quot;urls&quot;: &quot;https://nishatlinen.com/pk/women/unstitched.html&quot;}</find>
+      <find>{&quot;urls&quot;: &quot;https://nishatlinen.com/pk/women/unstitched/unstitched-eid-ul-azha-collection.html&quot;}</find>
+      <find>{&quot;url&quot;: &quot;https://nishatlinen.com/pk/00031958.html</find>
+      <find>user</find>
+      <find>41801092-Silk Chiffon - Red Printed 3PC</find>
+      <find>images</find>
+      <find>discount</find>
+      <find>links</find>
+      <find>we</find>
+      <find>[i]</find>
+      <find>iterator</find>
+      <find>j</find>
+      <find>[j]</find>
+      <find>[k]</find>
+      <find>[c</find>
+      <find>[i</find>
     </findStrings>
     <replaceStrings>
       <replace>cast</replace>
-      <replace>section</replace>
-      <replace>category</replace>
       <replace>Actual_price</replace>
       <replace>actual_price</replace>
       <replace>False</replace>
@@ -141,6 +191,18 @@
       <replace>color</replace>
       <replace>sizes</replace>
       <replace>pricing</replace>
+      <replace>raw_collections</replace>
+      <replace>collections</replace>
+      <replace>iterator</replace>
+      <replace>[iterator]</replace>
+      <replace>section</replace>
+      <replace>category</replace>
+      <replace>[category]</replace>
+      <replace>sub_category</replace>
+      <replace>[sub_category]</replace>
+      <replace>counter</replace>
+      <replace>[counter</replace>
+      <replace>[response_collection</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -150,7 +212,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/practice/spiders/authors_spider.py" />
-        <option value="$PROJECT_DIR$/practice/spiders/quotes_spider.py" />
         <option value="$PROJECT_DIR$/practice/spiders/scholars_spider.py" />
         <option value="$PROJECT_DIR$/practice/spiders/quotes_by_tags_spider.py" />
         <option value="$PROJECT_DIR$/practice/spiders/movies.py" />
@@ -163,10 +224,18 @@
         <option value="$PROJECT_DIR$/practice/ewaf.py" />
         <option value="$PROJECT_DIR$/darrna.jl" />
         <option value="$PROJECT_DIR$/item.jl" />
-        <option value="$PROJECT_DIR$/practice/settings.py" />
-        <option value="$PROJECT_DIR$/practice/pipelines.py" />
-        <option value="$PROJECT_DIR$/practice/items.py" />
         <option value="$PROJECT_DIR$/practice/spiders/eloquii_spider.py" />
+        <option value="$PROJECT_DIR$/practice/spiders/quotes_spider.py" />
+        <option value="$PROJECT_DIR$/nishat_links.jl" />
+        <option value="$PROJECT_DIR$/practice/spiders/nishat_spider.py" />
+        <option value="$PROJECT_DIR$/practice/spiders/rough.py" />
+        <option value="$PROJECT_DIR$/practice/settings.py" />
+        <option value="$PROJECT_DIR$/kamal_links.jl" />
+        <option value="$PROJECT_DIR$/practice/items.py" />
+        <option value="$PROJECT_DIR$/kamal_.jl" />
+        <option value="$PROJECT_DIR$/practice/pipelines.py" />
+        <option value="$PROJECT_DIR$/so_kamal_products.jl" />
+        <option value="$PROJECT_DIR$/practice/spiders/so_kamal.py" />
       </list>
     </option>
   </component>
@@ -259,7 +328,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="/usr/local/bin/scrapy" />
-      <option name="PARAMETERS" value="crawl darr" />
+      <option name="PARAMETERS" value="crawl kamal" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -322,21 +391,30 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1617" height="1062" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49828768" visible="true" weight="0.17525126" />
-      <window_info id="Structure" order="1" sideWeight="0.5017123" side_tool="true" weight="0.17525126" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972875" visible="true" weight="0.17525126" />
+      <window_info id="Structure" order="1" sideWeight="0.5027125" side_tool="true" weight="0.17525126" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26025918" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49676025" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.40280777" />
+      <window_info active="true" anchor="bottom" x="75" y="326" width="1594" height="381" id="Terminal" order="8" visible="true" weight="0.16198704" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -363,61 +441,97 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="imdb_rating[1]" language="Python" />
-        <watch expression="details[c]" language="Python" />
-        <watch expression="detail[c][0]" language="Python" />
+        <watch expression="links[c][0]" language="Python" />
+        <watch expression="json_response[i]['collectionName']" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>response.css('body').extract()</expression-string>
+        <expression-string>int(re.findall(r'[\d]+', str(json_response[i]['campaign_label']))[0])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.css('body')</expression-string>
+        <expression-string>re.findall(r'[\d]+', str(json_response[i]['campaign_label']))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>products[0]</expression-string>
+        <expression-string>re.findall(r'[\d]+'), str(json_response[i]['campaign_label'])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>categories.append(section.xpath('ul/li/div/p[1]/a/@href').extract())</expression-string>
+        <expression-string>a=[1,2,3]
+a[2]=None
+print(a[2])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>categories</expression-string>
+        <expression-string>json_response[i]['campaign_label']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(sections)</expression-string>
+        <expression-string>re.findall(r'[\d]+',str(json_response[i]['campaign_label']))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>section.xpath('ul/li/div/p[1]/a/@href').extract()</expression-string>
+        <expression-string>re.findall(r'[\d]+',str(json_response[i]['campaign_label']))[0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.xpath('//*[@id=&quot;nav_menu&quot;]/li[1]/ul/li/div/p[1]/a/@href')</expression-string>
+        <expression-string>json_response[i]['campaignType']['discount_value']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.xpath('//*[@id=&quot;nav_menu&quot;]/li[1]/ul/li/div/p[1]/a/text()')</expression-string>
+        <expression-string>images['0']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
     <expressions id="watch">
+      <expression>
+        <expression-string>json_response[i]['collectionName']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>links[c][0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>link[0][0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(link_json[i]['list'][j]['list'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(link_json[i]['list'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(link_json)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.url</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>detail[c][0]</expression-string>
         <language-id>Python</language-id>
@@ -430,21 +544,6 @@
       </expression>
       <expression>
         <expression-string>d[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>len(details)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>imdb_rating[1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>cast[iterator]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -498,79 +597,114 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/quotes.json" />
-    <entry file="file://$PROJECT_DIR$/quote.jl" />
-    <entry file="file://$PROJECT_DIR$/author.jl" />
-    <entry file="file://$PROJECT_DIR$/quotes_tags.jl" />
-    <entry file="file://$PROJECT_DIR$/practice/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/__init__.py">
+    <entry file="file://$PROJECT_DIR$/dress.jl" />
+    <entry file="file://$PROJECT_DIR$/practice/spiders/dresses_spider.py" />
+    <entry file="file://$PROJECT_DIR$/practice/thf.py" />
+    <entry file="file://$PROJECT_DIR$/darrn.jl" />
+    <entry file="file://$PROJECT_DIR$/darr.jl" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/twisted/internet/defer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="143">
+          <caret line="653" selection-start-line="653" selection-end-line="653" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/movies.py" />
-    <entry file="file://$PROJECT_DIR$/practice/spiders/authors_spider.py">
+    <entry file="file://$PROJECT_DIR$/using_item.jl" />
+    <entry file="file://$PROJECT_DIR$/darrna.jl" />
+    <entry file="file://$PROJECT_DIR$/practice/spiders/movies_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="1100">
+          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+    <entry file="file://$PROJECT_DIR$/itemsusing.jl" />
+    <entry file="file://$PROJECT_DIR$/darrp.jl" />
+    <entry file="file://$PROJECT_DIR$/item.jl" />
+    <entry file="file://$PROJECT_DIR$/practice/ewaf.py" />
+    <entry file="file://$PROJECT_DIR$/practice/spiders/bebe_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotes-2.html" />
+    <entry file="file://$PROJECT_DIR$/movies.jl" />
+    <entry file="file://$PROJECT_DIR$/scholars.jl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotes-1.html" />
+    <entry file="file://$PROJECT_DIR$/movies.html" />
+    <entry file="file://$PROJECT_DIR$/quotes.jl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eloquii_data.jl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/utils/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="374" selection-start-line="374" selection-end-line="374" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/encodings/idna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/w3lib/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/quotes_by_tags_spider.py">
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/w3lib/url.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="376">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dress.json" />
-    <entry file="file://$PROJECT_DIR$/practice/spiders/dresse_spider.py" />
-    <entry file="file://$PROJECT_DIR$/practice/bebe.html" />
-    <entry file="file://$PROJECT_DIR$/practice/spiders/quotes_spider.py">
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/w3lib/html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="332">
+          <caret line="293" selection-start-line="293" selection-end-line="293" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/scholars_spider.py">
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/utils/response.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="156">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dress.jl">
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/http/response/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26080">
-          <caret line="11" column="114" selection-start-line="11" selection-start-column="114" selection-end-line="11" selection-end-column="120" />
+        <state relative-caret-position="376">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/http/response/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/dresses_spider.py" />
     <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/spidermiddlewares/urllength.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -585,10 +719,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nishat_links.jl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10535">
+          <caret line="15" column="122" selection-start-line="15" selection-start-column="122" selection-end-line="15" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/spiders/nishat_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/spiders/rough.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/http/response/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/spidermiddlewares/depth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="314">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/twisted/internet/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="671" selection-start-line="671" selection-end-line="671" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/twisted/internet/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="1260" selection-start-line="1260" selection-end-line="1260" />
         </state>
       </provider>
     </entry>
@@ -608,7 +784,7 @@
     </entry>
     <entry file="file:///usr/local/lib/python3.5/dist-packages/scrapy/cmdline.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="178">
           <caret line="150" selection-start-line="150" selection-end-line="150" />
         </state>
       </provider>
@@ -620,154 +796,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/thf.py">
+    <entry file="file://$PROJECT_DIR$/practice/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="191" column="35" lean-forward="true" selection-end-line="232" selection-end-column="7" />
+        <state relative-caret-position="1496">
+          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/twisted/internet/base.py">
+    <entry file="file://$PROJECT_DIR$/practice/spiders/eloquii_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="1269" selection-start-line="1269" selection-end-line="1269" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/twisted/internet/task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="517" selection-start-line="517" selection-end-line="517" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/darrn.jl" />
-    <entry file="file://$PROJECT_DIR$/darr.jl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/twisted/internet/defer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="653" selection-start-line="653" selection-end-line="653" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/using_item.jl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/darrna.jl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/movies_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+        <state relative-caret-position="1430">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1535700690132" expanded="true" signature="169:178" ph="..." />
+            <marker date="1536226962180" expanded="true" signature="1546:2687" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itemsusing.jl">
+    <entry file="file://$PROJECT_DIR$/kamal_.jl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="184" selection-start-line="20" selection-start-column="184" selection-end-line="20" selection-end-column="184" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/darrp.jl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/item.jl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/ewaf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="904">
-          <caret line="219" selection-start-line="219" selection-end-line="219" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/bebe_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="22">
+          <caret line="1" column="785" selection-start-line="1" selection-start-column="785" selection-end-line="1" selection-end-column="785" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="215">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           <folding>
-            <marker date="1536219402751" expanded="true" signature="237:301" ph="..." />
-            <marker date="1536219402751" expanded="true" signature="331:332" ph="..." />
+            <marker date="1536643469468" expanded="true" signature="237:301" ph="..." />
+            <marker date="1536643469468" expanded="true" signature="331:332" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eloquii_data.jl">
+    <entry file="file://$PROJECT_DIR$/kamal_links.jl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotes-2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movies.jl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scholars.jl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quotes-1.html">
+    <entry file="file://$PROJECT_DIR$/practice/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4356" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="265" selection-start-line="265" selection-end-line="271" selection-end-column="10" />
+        <state relative-caret-position="580">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quotes.jl">
+    <entry file="file://$PROJECT_DIR$/so_kamal_products.jl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/spiders/eloquii_spider.py">
+    <entry file="file://$PROJECT_DIR$/practice/spiders/so_kamal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#1348#2482#0" />
-            <marker date="1536221050552" expanded="true" signature="1546:2695" ph="..." />
+            <element signature="e#313#611#0" />
+            <element signature="e#2231#2862#0" />
+            <element signature="e#3583#5032#0" />
+            <element signature="e#4222#6155#0" />
+            <marker date="1536647596649" expanded="false" signature="636:2673" ph="..." />
           </folding>
         </state>
       </provider>

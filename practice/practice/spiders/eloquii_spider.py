@@ -32,12 +32,12 @@ class EeloquiiSpider(scrapy.Spider):
                                         'Product Image': product.xpath('img/@src').extract_first()})
 
     def basic_product_details(self, json_response):
-        raw_details = list()
+        raw_details = []
         for variant in json_response["variations"]["variants"]:
             raw_details = raw_details + [[variant["attributes"]["colorCode"], variant["attributes"]["size"],
                                           {"Standard": variant["pricing"]["standard"],
                                            "Sale": variant["pricing"]["sale"]}]]
-        details = list()
+        details = []
         iterator = 0
         while iterator < len(raw_details):
             color = raw_details[iterator][0]

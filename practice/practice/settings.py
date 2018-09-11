@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'practice.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'practice (+http://www.yourdomain.com)'
-
+#USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Thunderbird/45.3.0'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
@@ -66,6 +66,7 @@ ROBOTSTXT_OBEY = False
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'practice.pipelines.EloquiiPipeline': 300,
+    'practice.pipelines.SoKamalPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
